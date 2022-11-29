@@ -1,0 +1,21 @@
+
+No Kartu = 8736094
+Jenis ATM = Setor Tunai
+Bank = BSI
+Nama Pemilik = zauhs
+Nama File Gambar = HD wallpaper_ need for speed 2015, transportation, mode of transportation.jpg
+
+
+No Kartu = 947603
+Jenis ATM = Tarik Tunai
+Bank = BSI
+Nama Pemilik = yty
+Nama File Gambar = HD wallpaper_ artwork, car, vehicle, digital art, orange cars, Nissan, Nissan GT-R.jpg
+
+
+No Kartu = 947603
+Jenis ATM = Tarik Tunai
+Bank = BSI
+Nama Pemilik = yty
+Nama File Gambar = null
+
